@@ -15,7 +15,7 @@
   <li><b>Rent App</b>: A comprehensive platform for managing rental properties.</li>
   <li><b>CRM Lite</b>: A customer relationship management system to streamline client interactions.</li>
   <li><b>Property and Resident Management</b>: Tools for efficient property oversight and resident engagement.</li>
-  <li><b>Vehicle Repair Quotation</b>b>: A system for generating accurate repair estimates.</li>
+  <li><b>Vehicle Repair Quotation</b>: A system for generating accurate repair estimates.</li>
 </ul>
 
 <p>I love tackling challenging projects and continuously learning new technologies.</p>
